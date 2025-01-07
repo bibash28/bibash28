@@ -9,7 +9,7 @@
 
 ### Open Source Contributions
 
-[![Beacon](https://github-readme-stats.vercel.app/api/pin?username=TalaoDAO&repo=beacon)](https://github.com/TalaoDAO/beacon)
+[![Beacon](https://github-readme-stats.vercel.app/api/pin?username=TalaoDAO&repo=beacon)](https://pub.dev/packages/beacon_flutter)
 [![Altme](https://github-readme-stats.vercel.app/api/pin?username=TalaoDAO&repo=AltMe)](https://github.com/TalaoDAO/Altme)
 [![Talao Wallet](https://github-readme-stats.vercel.app/api/pin?username=TalaoDAO&repo=talao-wallet)](https://github.com/TalaoDAO/talao-wallet)
 
