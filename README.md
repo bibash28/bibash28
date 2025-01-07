@@ -7,6 +7,11 @@
 - 📫 You can email me at bibashshrestha@gmail.com.
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 
+### Open Source Projects
+
+[![Beacon](https://github-readme-stats.vercel.app/api/pin?username=TalaoDAO&repo=beacon)](https://github.com/TalaoDAO/beacon)
+
+
 <!---
 bibash28/bibash28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
