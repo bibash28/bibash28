@@ -7,9 +7,11 @@
 - 📫 You can email me at bibashshrestha@gmail.com.
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 
-### Open Source Projects
+### Open Source Contributions
 
 [![Beacon](https://github-readme-stats.vercel.app/api/pin?username=TalaoDAO&repo=beacon)](https://github.com/TalaoDAO/beacon)
+[![Altme](https://github-readme-stats.vercel.app/api/pin?username=TalaoDAO&repo=AltMe)](https://github.com/TalaoDAO/Altme)
+[![Talao Wallet](https://github-readme-stats.vercel.app/api/pin?username=TalaoDAO&repo=talao-wallet)](https://github.com/TalaoDAO/talao-wallet)
 
 
 <!---
